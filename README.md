@@ -1,10 +1,27 @@
-﻿# Building RAG Chatbots for Technical Documentation
+# RAG Chatbots
 
-**Skill Level:** Intermediate
-**Duration:** 1 hr
+![Level: Intermediate](https://img.shields.io/badge/Level-Intermediate-orange)
 
 ## Description
-Implement retrieval augmented generation (RAG) with LangChain to create a chatbot for answering questions about technical documentation.
+RAG implementation with LangChain
 
-## Instructions
-Please add your project code and notebooks to this repository.
+## Topics Covered
+- Data Analysis
+- Problem Solving
+- Domain Specific Techniques
+
+## Prerequisites
+- Proficiency in Python/SQL (as applicable)
+- Understanding of project-specific concepts
+
+## Project Structure
+- data/: Contains project datasets
+- notebooks/: Jupyter notebooks for analysis (if applicable)
+- src/: Source code files
+- README.md: Project documentation
+
+## Getting Started
+1. Clone the repository
+2. Install dependencies (if any)
+3. Navigate to the project folder
+4. Run the notebooks or scripts
